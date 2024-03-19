@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 05c83328f82284d999e91b3b880940a8
+  - enabled: 1
+    path: Assets/Scenes/Nivel01.unity
+    guid: b1ee6b299b0684b6ab3bd9bb611b202d
+  - enabled: 1
+    path: Assets/Scenes/Nivel02.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Nivel03.unity
+    guid: 5af7e416c72ff4e6ea26698fa3697bb0
+  - enabled: 1
+    path: Assets/Scenes/Nivel04.unity
+    guid: 2f512d4ca3e9c4601a5535cd41b72566
+  - enabled: 1
+    path: Assets/Scenes/Nivel05.unity
+    guid: 1ec32319701f04429834b95cb999843d
+  - enabled: 1
+    path: Assets/Scenes/Nivel06.unity
+    guid: 4e06c9e60857b41f28dcb156da67050e
+  - enabled: 1
+    path: Assets/Scenes/Nivel07.unity
+    guid: 71ffadc5f83b5411a9ded1068db049cb
+  - enabled: 1
+    path: Assets/Scenes/Nivel08.unity
+    guid: 9c094cd451ecf44719eca59d300f6caf
+  - enabled: 1
+    path: Assets/Scenes/Nivel09.unity
+    guid: d1703410427d5418781a6c32148fe182
+  - enabled: 1
+    path: Assets/Scenes/Nivel10.unity
+    guid: dba91b8f39c604d609f07e117be7cb0d
+  - enabled: 1
+    path: Assets/Scenes/Nivel11.unity
+    guid: 55754ceb5482e4840a4a30e485fb859d
+  - enabled: 1
+    path: Assets/Scenes/Nivel12.unity
+    guid: e5904ff2018654158a12f6d7125c4653
+  - enabled: 1
+    path: Assets/Scenes/Nivel13.unity
+    guid: 53834d5eba9e743e697fb37e1699d403
+  - enabled: 1
+    path: Assets/Scenes/Nivel14.unity
+    guid: d422a38c7af9a4215a0f4f7f692c50b1
+  - enabled: 1
+    path: Assets/Scenes/Nivel15.unity
+    guid: 5d6cfdb0f3f1b4df2885a8df2f658947
+  - enabled: 1
+    path: Assets/Scenes/Nivel16.unity
+    guid: 08d14d66882ab4bfc88e1f4548cfeb07
+  - enabled: 1
+    path: Assets/Scenes/Nivel17.unity
+    guid: 4a2acbd168f1c4db29a7b14a8f3aadb1
+  - enabled: 1
+    path: Assets/Scenes/Nivel18.unity
+    guid: d7dd91dac81b3457188c75ee85734c27
+  m_configObjects: {}
